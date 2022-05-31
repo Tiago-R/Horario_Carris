@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/dias_semana.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/dias_semana_pn_lx.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/domingo_lx_pn.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/domingo_pn_lx.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/new_main.xml" value="0.1" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/sabado_lx_pn.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/sabado_pn_lx.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/semana_lx_pn.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tiago/AndroidStudioProjects/HorriosCarrisMetroPN/app/src/main/res/layout/sentido.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Horários Carris Metro PN</string>
-
+    <string-array name="dias_semana">
+        <item>Dias de Semana</item>
+        <item>Sábados</item>
+        <item>Domingos_Feriados</item>
+    </string-array>
+    <string-array name="sentido">
+        <item>PN - LX</item>
+        <item>LX - PN</item>
+    </string-array>
 </resources>
